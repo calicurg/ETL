@@ -129,8 +129,7 @@ def CreateTables():
         
         Execute(sql_statement)
         
-              
-        
+                    
 def Execute(statement):
 
     cursor = CurrDI['cursor']

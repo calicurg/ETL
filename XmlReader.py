@@ -52,8 +52,6 @@ CurrDI = {'table':'',
           }
        
         
-        
-
 def Eval__disease():
 
     nct_id = CurrDI['table']
